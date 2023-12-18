@@ -26,9 +26,9 @@ git clone https://github.com/your-username/flutter-widgets-showcase.git
 ```
 
 ### Navigate to the Project Directory:
-`cd flutter-widgets-showcase`
+```cd flutter-widgets-showcase```
 
 ### Run the App:
-`flutter run`
+```flutter run```
 
 Ensure that you have Flutter and Dart installed on your machine.
