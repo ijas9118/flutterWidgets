@@ -40,12 +40,12 @@ This Flutter app serves as a handy showcase for commonly used widgets, providing
 ## Getting Started
 ### Clone the Repository:
 ```
-git clone https://github.com/your-username/flutter-widgets-showcase.git
+git clone https://github.com/ijas9118/flutterWidgets.git
 ```
 
 ### Navigate to the Project Directory:
 ```
-cd flutter-widgets-showcase
+cd flutterWidgets
 ```
 
 ### Run the App:
